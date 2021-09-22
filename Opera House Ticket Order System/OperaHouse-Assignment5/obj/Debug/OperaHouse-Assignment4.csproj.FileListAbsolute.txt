@@ -1,0 +1,13 @@
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\IS318-TFSmap\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.csprojAssemblyReference.cache
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 Starter S21\OperaHouse-Assignment4\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.pdb

@@ -1,0 +1,12 @@
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\bin\Debug\OperaHouse-Assignment4.exe
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\bin\Debug\OperaHouse-Assignment4.pdb
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse-Assignment5.csprojAssemblyReference.cache
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse-Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse-Assignment4.exe
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse-Assignment4.pdb
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse_Assignment4.Form1.resources
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse-Assignment5.csproj.GenerateResource.cache
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse_Assignment4.AddEvent.resources
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse_Assignment4.EditEvent.resources
+C:\Users\jstin\OneDrive\Documents\IS 318\StinskiSchlobohmAssignment5\OperaHouse-Assignment5\obj\Debug\OperaHouse_Assignment4.PerformerFilter.resources
